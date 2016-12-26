@@ -1,4 +1,4 @@
-# for_ivideon
+# Example C++ Client-Server App
 
 Run:   
   make   
